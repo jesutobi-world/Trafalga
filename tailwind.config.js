@@ -10,6 +10,7 @@ module.exports = {
         'linkBlue':'#4089ED',
         'leftGradient':'#67C3F3',
         'rightGradient': '#5A98F2',
+        'transparentWhite':'rgba(255, 255, 255, 0.90)'
       },
       fontFamily:{
         'mulish':['Mulish', "sans-serif"]
